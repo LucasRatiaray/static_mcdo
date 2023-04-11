@@ -1,0 +1,61 @@
+#mainNav {
+  background-color: white !important;
+}
+
+a:hover {
+  color: #fed136 !important;
+}
+
+.btn-xl:hover {
+  color: white !important;
+}
+
+#about::before {
+  content: "";
+  position: absolute;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #ffbc0d;
+  z-index: -1;
+  transform: skewY(-20deg);
+  transform-origin: 0 0;
+}
+
+.far.fa-star {
+}
+
+.far.fa-star {
+  color: ye;
+}
+
+. {
+}
+
+.fas.fa-envelope {
+  color: white;
+}
+
+.fas.fa-phone {
+  color: white;
+}
+
+.section-heading {
+  color: black !important;
+}
+
+.section-heading.bg-color {
+}
+
+.bg-color {
+  color: white !important;
+}
+
+#page-top {
+}
+
+.portfolio-item:hover {
+  transform: scale(1.02)!important;
+  transition: 0.5s;
+}
+
